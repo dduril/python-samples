@@ -1,5 +1,7 @@
 # Python
 
+Intended as a future workspace for Python code samples - currently working in this repo: **[bootcamp/python](https://github.com/dduril/bootcamp/tree/master/python)**
+
 ### References
 
 - **<a href="https://www.python.org/" target="_blank">Python</a>**
