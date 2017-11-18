@@ -1,8 +1,8 @@
-# Python
+## Python
 
-Intended as a future workspace for Python code samples - currently working in this repo: **[bootcamp/python](https://github.com/dduril/bootcamp/tree/master/python)**
+Intended as a workspace for Python projects - currently working in this repo: **[bootcamp/python](https://github.com/dduril/bootcamp/tree/master/python)**
 
-### References
+#### References
 
 - **<a href="https://www.python.org/" target="_blank">Python</a>**
 - **<a href="https://www.python.org/doc/" target="_blank">Python Documentation</a>**
